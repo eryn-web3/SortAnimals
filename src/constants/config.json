@@ -1,0 +1,8 @@
+{
+	"fee": 5,
+	"sendgrid_apikey" : "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",
+	"sortanimals_mail" : "w2s8cwi@163.com",
+	"firebase_enable" : true,
+	"defalutCountry": "US",
+	"api_url" : "http://sortanimals.itsuccess.online"
+}
